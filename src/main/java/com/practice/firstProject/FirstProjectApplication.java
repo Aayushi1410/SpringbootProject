@@ -1,4 +1,4 @@
-package com.pactice.firstProject;
+package com.practice.firstProject;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
